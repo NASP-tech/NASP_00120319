@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="X.NASP.00120319:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/X_NASP_00120319_jar</output-path>
+    <root id="archive" name="X.NASP.00120319.jar">
+      <element id="module-output" name="X.NASP.00120319" />
+    </root>
+  </artifact>
+</component>
